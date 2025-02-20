@@ -197,18 +197,40 @@
 // A = [24, 53, 78, 91, 12].
 
 
+// let numbers =[24,53,78,91,12];
 
-let arr=[24,53,78,91,12];
-var largest=arr[0];
-console.log(arr[0])
-for(var i=0;i<arr.length;i++){
-     if(arr[i]>largest)
-     {largest=arr[i]}
-}
-document.write('Array items : '+arr+'<br>');
-document.write('The largest number is '+largest)
+// let largestNumber = numbers[0];
+
+// for (let i=0 ; i <numbers.length ; i++){
+
+// if (largestNumber < numbers[i]){
+//     largestNumber = numbers[i]
+
+
+// }
+
+// }
+
+// document.write("largest number is : " + largestNumber  )
+
 
 // QUESTION 9
+
+// let numbers =[24,53,78,91,12];
+
+// let smallestNumber = numbers[0];
+
+// for (let i=0 ; i < numbers.length ; i++){
+
+// if (smallestNumber > numbers[i]){
+//     smallestNumber = numbers[i]
+
+
+// }
+
+// }
+
+// document.write("smallest number is : " + smallestNumber  )
 
 
 
